@@ -11,6 +11,9 @@
     color: rgb(255, 255, 255);
 }
 
+
+/* header */
+
 header {
     width: 100%;
     height: 400px;
@@ -55,7 +58,38 @@ li {
     font-weight: 100;
 }
 
+
+/* prmeira section */
+
+.section-vr {
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content-vr {
+    display: flex;
+}
+
+.text-vr {
+    width: 500px;
+    margin-top: auto;
+    margin-left: 100px;
+}
+
 .text-vr>p {
     color: black;
     font-size: var(--font-md);
+}
+
+.text-vr>p:nth-child(1) {
+    color: blue;
+    font-size: var(--font-xl);
+}
+
+.text-vr>p:nth-child(2) {
+    color: blue;
+    font-size: var(--font-xl);
+    margin-bottom: 40px;
 }
