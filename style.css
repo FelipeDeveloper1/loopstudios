@@ -45,7 +45,7 @@ li {
     justify-content: center;
     border: 1px solid white;
     height: 200px;
-    width: 380px;
+    width: 450px;
     margin-left: 16%;
 }
 
@@ -53,4 +53,9 @@ li {
     margin-left: 20px;
     font-size: var(--font-xl);
     font-weight: 100;
+}
+
+.text-vr>p {
+    color: black;
+    font-size: var(--font-md);
 }
