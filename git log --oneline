@@ -1,0 +1,65 @@
+[33mcommit 672a344785f771e37caa05bbc17993c2c0d06510[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: = <=>
+Date:   Thu Jul 28 20:23:16 2022 -0300
+
+    criando o footer e inserindo seu conteudo no html
+
+[33mcommit b02888be6184eafa7d07265b0a88c852faf5acc8[m
+Author: = <=>
+Date:   Thu Jul 28 20:17:25 2022 -0300
+
+    adicionando o grid a section
+
+[33mcommit f7e088cc72e7d0ab2f7635ffeb656c9c468789ca[m
+Author: = <=>
+Date:   Thu Jul 28 19:50:57 2022 -0300
+
+    adicionando conteudo na section creation
+
+[33mcommit 4c0c482568be5acad7eba7eb80e5b329f72e7e35[m
+Author: = <=>
+Date:   Thu Jul 28 19:32:21 2022 -0300
+
+    estilizando a section interactive
+
+[33mcommit 7558980236b2368017775dfccb1e6117948f0020[m
+Author: = <=>
+Date:   Thu Jul 28 18:13:22 2022 -0300
+
+    criando a section interactive vr e inserindo seu conteudo
+
+[33mcommit 8e9d49e17ff6df6fb98728cd9785c1e8be2bdcec[m
+Author: = <=>
+Date:   Thu Jul 28 16:05:10 2022 -0300
+
+    estilizando o header
+
+[33mcommit 584882aa4f40dd2cd66fd29b0d60e2c9d1ae49f9[m
+Author: = <=>
+Date:   Thu Jul 28 15:10:23 2022 -0300
+
+    desenvolvendo o header na aplicação
+
+[33mcommit dce746d5c1de66549b0dce7ef9058f98a09fae12[m
+Author: = <=>
+Date:   Thu Jul 28 14:49:04 2022 -0300
+
+    ignorando arquivos inuteis no memomento
+
+[33mcommit fe6668da6a4a1aee3584758eb075faf9c379f8d8[m
+Author: = <=>
+Date:   Thu Jul 28 14:42:49 2022 -0300
+
+    adicionado novos arquivos de design
+
+[33mcommit 0e7177e31dd35183565e0b89316ca452bff42a67[m
+Author: = <=>
+Date:   Thu Jul 28 14:39:08 2022 -0300
+
+    resetando os arquivos
+
+[33mcommit e1e7359e80151276b56dbb29076c93be80a3c541[m
+Author: = <=>
+Date:   Thu Jul 28 14:31:39 2022 -0300
+
+    Criando os arquivos iniciais

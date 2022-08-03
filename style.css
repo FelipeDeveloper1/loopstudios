@@ -107,3 +107,57 @@ li {
 .content-img>div:nth-child(n+5) {
     margin-top: 30px;
 }
+
+.titulo {
+    display: flex;
+    margin-bottom: 50px;
+    justify-content: space-around;
+}
+
+.titulo>input {
+    width: 130px;
+    background-color: white;
+    color: black;
+    letter-spacing: 2px;
+    font-size: var(--font-sn);
+}
+
+.titulo>p {
+    color: black;
+    font-size: var(--font-xl);
+}
+
+
+/* footer */
+
+footer {
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+    height: 100px;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.primeira-linha>ul {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.primeira-linha>ul>li {
+    margin-right: 35px;
+}
+
+.primeira-linha>p {
+    font-size: var(--font-md);
+}
+
+.segunda-linha>ul {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.imagem>img {
+    margin-right: 20px;
+}
